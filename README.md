@@ -16,3 +16,5 @@ This project is a linear optimization application designed to strategically allo
 * Rodrigo Marcenaro
 * Daniel Mastrobuono
 * Jesse Vu
+
+Check the pdf for a detailed report on our findings!
